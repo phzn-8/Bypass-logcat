@@ -1,13 +1,44 @@
-🔥 Logcat Auto-Cleaner Bypass: O Fim do Caos no seu Terminal! 🚀
-Você está cansado de ter seu terminal inundado por milhares de linhas inúteis no logcat? Perde horas caçando aquele log específico no meio de uma avalanche de lixo do sistema?
-Seus problemas acabaram. Apresento a vocês o Logcat Auto-Cleaner Bypass! 🛠️✨
-Esse script não é apenas um limpador comum. É um bypass inteligente e 100% automatizado, desenhado sob medida para desenvolvedores, modders e analistas que precisam de um ambiente limpo e direto ao ponto. Ele intercepta, filtra e aniquila a poluição do logcat automaticamente, garantindo que você foque apenas no código que realmente importa.
-🌟 Por que usar esse script?
-🧹 Limpeza 100% Automatizada: Adeus poluição visual! O script faz a faxina pesada no logcat em tempo real.
-🧠 Bypass Inteligente: Contorna os fluxos contínuos de logs de sistema indesejados sem interromper o que você precisa ler.
-⚡ Leve e Ultra Rápido: Feito em um formato enxuto para rodar liso, sem pesar no seu ambiente.
-🎯 Foco na Produtividade: Menos tempo rolando a tela, mais tempo codando e resolvendo bugs.
-🚀 Plug and Play: Baixou, rodou, limpou. Simples assim.
-Pare de lutar contra o logcat e deixe a automação fazer o trabalho sujo por você. Eleve sua produtividade para o próximo nível e mantenha seu terminal impecável.
-💻 Baixe agora, teste e veja a mágica acontecer!
-💬 Projeto criado de dev para a comunidade. Se esse script salvou o seu dia, não esqueça de deixar aquela estrela (⭐) no repositório para fortalecer o projeto!
+# 🔥 Logcat Auto-Cleaner Bypass
+
+> Um bypass inteligente e automatizado para limpar o caos do logcat Android. Eliminando ruído do sistema em tempo real, deixando seus logs limpos e produtivos.
+
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Android](https://img.shields.io/badge/Android-compatible-blue)
+
+---
+
+## 🎯 O Problema
+
+Desenvolvedor Android? Então você conhece bem esse dilema:
+
+- ❌ Terminal inundado por **milhares de linhas inúteis**
+- ❌ Logs de sistema corrompendo suas análises
+- ❌ Horas perdidas procurando aquele log específico
+- ❌ Produtividade zerada na busca por informações relevantes
+
+## ✨ A Solução
+
+**Logcat Auto-Cleaner Bypass** é um script automatizado que faz a faxina pesada:
+
+- ✅ **Limpeza 100% Automatizada** - Sem intervenção manual
+- ✅ **Bypass Inteligente** - Contorna fluxos contínuos de logs indesejados
+- ✅ **Ultra Leve** - Otimizado para performance máxima
+- ✅ **Plug & Play** - Funcionamento imediato, sem configurações complexas
+- ✅ **Compatível** - Funciona com Magic Patch, Kersu e módulos similares
+
+---
+
+## 📦 Instalação
+
+### Pré-requisitos
+- Android 5.0+ (para uso em dispositivo)
+- ADB instalado (para desenvolvimento)
+- Python 3.7+ (para versão em script)
+
+### Via Download Direto
+
+1. **Baixe a versão mais recente:**
+   ```bash
+   git clone https://github.com/phzn-8/Bypass-logcat.git
+   cd Bypass-logcat
