@@ -32,9 +32,7 @@ Desenvolvedor Android? Então você conhece bem esse dilema:
 ## 📦 Instalação
 
 ### Pré-requisitos
-- Android 5.0+ (para uso em dispositivo)
-- ADB instalado (para desenvolvimento)
-- Python 3.7+ (para versão em script)
+- Android 11.0+ (para uso em dispositivo)
 
 ### Via Download Direto
 
