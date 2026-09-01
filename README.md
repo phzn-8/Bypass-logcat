@@ -33,10 +33,3 @@ Desenvolvedor Android? Então você conhece bem esse dilema:
 
 ### Pré-requisitos
 - Android 11.0+ (para uso em dispositivo)
-
-### Via Download Direto
-
-1. **Baixe a versão mais recente:**
-   ```bash
-   git clone https://github.com/phzn-8/Bypass-logcat.git
-   cd Bypass-logcat
